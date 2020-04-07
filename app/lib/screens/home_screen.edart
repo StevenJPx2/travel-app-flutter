@@ -1,0 +1,40 @@
+code--start
+import 'package:flutter/material.dart';
+
+class HomeScreen extends StatefulWidget {
+  @override
+  _HomeScreenState createState() => _HomeScreenState();
+}
+
+class _HomeScreenState extends State<HomeScreen> {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: 
+
+      <%
+
+      SafeArea()
+      ^ ListView(
+	padding: EdgeInsets.symmetric(vertical: 30.0),
+	~start
+	Padding(padding: EdgeInsets.only(left: 20.0, right: 120.0),)
+	^ Text('What would you like to find?', style: TextStyle(fontSize: 28.0, fontWeight: FontWeight.w500),),
+	~end
+	~start
+	Row(
+	  ~start
+	  Container(decoration: BoxDecoration(shape: BoxShape.circle, color: Colors.grey,), width: 20.0)
+	  ~end
+	)
+	~end
+
+      )
+
+      %>
+
+    );
+  }
+}
+
+code--end

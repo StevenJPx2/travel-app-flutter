@@ -1,0 +1,814 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/6dd6c73/
+0	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+0	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/gondola.jpg
+0	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/hotel0.jpg
+0	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/hotel1.jpg
+0	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/hotel2.jpg
+0	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/murano.jpg
+0	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/newdelhi.jpg
+0	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/newyork.jpg
+0	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/paris.jpg
+0	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/santorini.jpg
+0	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/saopaulo.jpg
+0	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/stmarksbasilica.jpg
+0	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/venice.jpg
+0	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:packages/cupertino_icons/assets/CupertinoIcons.ttf
+0	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	o
+0	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	o	array:0.fonts
+0	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	o	array:1.fonts
+0	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/gondola.jpg
+0	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/hotel0.jpg
+0	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/hotel1.jpg
+0	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/hotel2.jpg
+0	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/murano.jpg
+0	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/newdelhi.jpg
+0	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/newyork.jpg
+0	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/paris.jpg
+0	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/santorini.jpg
+0	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/saopaulo.jpg
+0	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/stmarksbasilica.jpg
+0	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/venice.jpg
+0	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:packages/cupertino_icons/assets/CupertinoIcons.ttf
+0	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	o
+0	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	o	array:0.fonts
+0	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	o	array:1.fonts
+0	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/gondola.jpg
+0	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/hotel0.jpg
+0	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/hotel1.jpg
+0	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/hotel2.jpg
+0	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/murano.jpg
+0	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/newdelhi.jpg
+0	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/newyork.jpg
+0	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/paris.jpg
+0	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/santorini.jpg
+0	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/saopaulo.jpg
+0	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/stmarksbasilica.jpg
+0	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/venice.jpg
+0	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:packages/cupertino_icons/assets/CupertinoIcons.ttf
+0	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	o
+0	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	o	array:0.fonts
+0	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	o	array:1.fonts
+0	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/gondola.jpg
+0	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/hotel0.jpg
+0	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/hotel1.jpg
+0	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/hotel2.jpg
+0	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/murano.jpg
+0	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/newdelhi.jpg
+0	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/newyork.jpg
+0	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/paris.jpg
+0	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/santorini.jpg
+0	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/saopaulo.jpg
+0	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/stmarksbasilica.jpg
+0	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:assets/images/venice.jpg
+0	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:packages/cupertino_icons/assets/CupertinoIcons.ttf
+0	ios/Flutter/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	o
+0	ios/Flutter/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	o	array:0.fonts
+0	ios/Flutter/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	o	array:1.fonts
+0	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+0	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^    {$/;"	o	array:images
+1	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+1	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	o
+1	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	o
+1	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	o
+1	ios/Flutter/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	o
+1	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+1	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^    {$/;"	o	array:images
+10	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+10	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+11	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+11	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+12	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+12	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+13	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+13	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+14	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+14	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+15	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+15	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+16	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+16	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+17	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+17	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+18	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+18	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+19	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+2	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+2	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+2	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^    {$/;"	o	array:images
+20	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+21	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+22	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+23	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+24	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+25	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+26	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+27	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+28	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+3	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+3	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+4	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+4	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+4NT_args	android/gradlew.bat	/^:4NT_args$/;"	l
+5	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+5	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+6	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+6	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+7	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+7	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+8	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+8	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+9	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+9	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+APP_BASE_NAME	android/gradlew.bat	/^set APP_BASE_NAME=%~n0$/;"	v
+APP_HOME	android/gradlew.bat	/^set APP_HOME=%DIRNAME%$/;"	v
+CFBundleDevelopmentRegion	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundleDevelopmentRegion<\/key>$/;"	k
+CFBundleDevelopmentRegion	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundleDevelopmentRegion<\/key>$/;"	k
+CFBundleDevelopmentRegion	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundleDevelopmentRegion<\/key>$/;"	k
+CFBundleDevelopmentRegion	build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundleDevelopmentRegion<\/key>$/;"	k
+CFBundleDevelopmentRegion	ios/Flutter/App.framework/Info.plist	/^  <key>CFBundleDevelopmentRegion<\/key>$/;"	k
+CFBundleDevelopmentRegion	ios/Flutter/AppFrameworkInfo.plist	/^  <key>CFBundleDevelopmentRegion<\/key>$/;"	k
+CFBundleDevelopmentRegion	ios/Flutter/Flutter.framework/Info.plist	/^  <key>CFBundleDevelopmentRegion<\/key>$/;"	k
+CFBundleDevelopmentRegion	ios/Runner/Info.plist	/^	<key>CFBundleDevelopmentRegion<\/key>$/;"	k
+CFBundleExecutable	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundleExecutable<\/key>$/;"	k
+CFBundleExecutable	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundleExecutable<\/key>$/;"	k
+CFBundleExecutable	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundleExecutable<\/key>$/;"	k
+CFBundleExecutable	build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundleExecutable<\/key>$/;"	k
+CFBundleExecutable	ios/Flutter/App.framework/Info.plist	/^  <key>CFBundleExecutable<\/key>$/;"	k
+CFBundleExecutable	ios/Flutter/AppFrameworkInfo.plist	/^  <key>CFBundleExecutable<\/key>$/;"	k
+CFBundleExecutable	ios/Flutter/Flutter.framework/Info.plist	/^  <key>CFBundleExecutable<\/key>$/;"	k
+CFBundleExecutable	ios/Runner/Info.plist	/^	<key>CFBundleExecutable<\/key>$/;"	k
+CFBundleIdentifier	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundleIdentifier<\/key>$/;"	k
+CFBundleIdentifier	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundleIdentifier<\/key>$/;"	k
+CFBundleIdentifier	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundleIdentifier<\/key>$/;"	k
+CFBundleIdentifier	build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundleIdentifier<\/key>$/;"	k
+CFBundleIdentifier	ios/Flutter/App.framework/Info.plist	/^  <key>CFBundleIdentifier<\/key>$/;"	k
+CFBundleIdentifier	ios/Flutter/AppFrameworkInfo.plist	/^  <key>CFBundleIdentifier<\/key>$/;"	k
+CFBundleIdentifier	ios/Flutter/Flutter.framework/Info.plist	/^  <key>CFBundleIdentifier<\/key>$/;"	k
+CFBundleIdentifier	ios/Runner/Info.plist	/^	<key>CFBundleIdentifier<\/key>$/;"	k
+CFBundleInfoDictionaryVersion	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundleInfoDictionaryVersion<\/key>$/;"	k
+CFBundleInfoDictionaryVersion	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundleInfoDictionaryVersion<\/key>$/;"	k
+CFBundleInfoDictionaryVersion	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundleInfoDictionaryVersion<\/key>$/;"	k
+CFBundleInfoDictionaryVersion	build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundleInfoDictionaryVersion<\/key>$/;"	k
+CFBundleInfoDictionaryVersion	ios/Flutter/App.framework/Info.plist	/^  <key>CFBundleInfoDictionaryVersion<\/key>$/;"	k
+CFBundleInfoDictionaryVersion	ios/Flutter/AppFrameworkInfo.plist	/^  <key>CFBundleInfoDictionaryVersion<\/key>$/;"	k
+CFBundleInfoDictionaryVersion	ios/Flutter/Flutter.framework/Info.plist	/^  <key>CFBundleInfoDictionaryVersion<\/key>$/;"	k
+CFBundleInfoDictionaryVersion	ios/Runner/Info.plist	/^	<key>CFBundleInfoDictionaryVersion<\/key>$/;"	k
+CFBundleName	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundleName<\/key>$/;"	k
+CFBundleName	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundleName<\/key>$/;"	k
+CFBundleName	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundleName<\/key>$/;"	k
+CFBundleName	build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundleName<\/key>$/;"	k
+CFBundleName	ios/Flutter/App.framework/Info.plist	/^  <key>CFBundleName<\/key>$/;"	k
+CFBundleName	ios/Flutter/AppFrameworkInfo.plist	/^  <key>CFBundleName<\/key>$/;"	k
+CFBundleName	ios/Flutter/Flutter.framework/Info.plist	/^  <key>CFBundleName<\/key>$/;"	k
+CFBundleName	ios/Runner/Info.plist	/^	<key>CFBundleName<\/key>$/;"	k
+CFBundlePackageType	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundlePackageType<\/key>$/;"	k
+CFBundlePackageType	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundlePackageType<\/key>$/;"	k
+CFBundlePackageType	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundlePackageType<\/key>$/;"	k
+CFBundlePackageType	build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundlePackageType<\/key>$/;"	k
+CFBundlePackageType	ios/Flutter/App.framework/Info.plist	/^  <key>CFBundlePackageType<\/key>$/;"	k
+CFBundlePackageType	ios/Flutter/AppFrameworkInfo.plist	/^  <key>CFBundlePackageType<\/key>$/;"	k
+CFBundlePackageType	ios/Flutter/Flutter.framework/Info.plist	/^  <key>CFBundlePackageType<\/key>$/;"	k
+CFBundlePackageType	ios/Runner/Info.plist	/^	<key>CFBundlePackageType<\/key>$/;"	k
+CFBundleShortVersionString	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundleShortVersionString<\/key>$/;"	k
+CFBundleShortVersionString	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundleShortVersionString<\/key>$/;"	k
+CFBundleShortVersionString	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundleShortVersionString<\/key>$/;"	k
+CFBundleShortVersionString	build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundleShortVersionString<\/key>$/;"	k
+CFBundleShortVersionString	ios/Flutter/App.framework/Info.plist	/^  <key>CFBundleShortVersionString<\/key>$/;"	k
+CFBundleShortVersionString	ios/Flutter/AppFrameworkInfo.plist	/^  <key>CFBundleShortVersionString<\/key>$/;"	k
+CFBundleShortVersionString	ios/Flutter/Flutter.framework/Info.plist	/^  <key>CFBundleShortVersionString<\/key>$/;"	k
+CFBundleShortVersionString	ios/Runner/Info.plist	/^	<key>CFBundleShortVersionString<\/key>$/;"	k
+CFBundleSignature	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundleSignature<\/key>$/;"	k
+CFBundleSignature	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundleSignature<\/key>$/;"	k
+CFBundleSignature	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundleSignature<\/key>$/;"	k
+CFBundleSignature	build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundleSignature<\/key>$/;"	k
+CFBundleSignature	ios/Flutter/App.framework/Info.plist	/^  <key>CFBundleSignature<\/key>$/;"	k
+CFBundleSignature	ios/Flutter/AppFrameworkInfo.plist	/^  <key>CFBundleSignature<\/key>$/;"	k
+CFBundleSignature	ios/Flutter/Flutter.framework/Info.plist	/^  <key>CFBundleSignature<\/key>$/;"	k
+CFBundleSignature	ios/Runner/Info.plist	/^	<key>CFBundleSignature<\/key>$/;"	k
+CFBundleVersion	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundleVersion<\/key>$/;"	k
+CFBundleVersion	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundleVersion<\/key>$/;"	k
+CFBundleVersion	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>CFBundleVersion<\/key>$/;"	k
+CFBundleVersion	build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>CFBundleVersion<\/key>$/;"	k
+CFBundleVersion	ios/Flutter/App.framework/Info.plist	/^  <key>CFBundleVersion<\/key>$/;"	k
+CFBundleVersion	ios/Flutter/AppFrameworkInfo.plist	/^  <key>CFBundleVersion<\/key>$/;"	k
+CFBundleVersion	ios/Flutter/Flutter.framework/Info.plist	/^  <key>CFBundleVersion<\/key>$/;"	k
+CFBundleVersion	ios/Runner/Info.plist	/^	<key>CFBundleVersion<\/key>$/;"	k
+CLASSPATH	android/gradlew.bat	/^set CLASSPATH=%APP_HOME%\\gradle\\wrapper\\gradle-wrapper.jar$/;"	v
+CMD_LINE_ARGS	android/gradlew.bat	/^set CMD_LINE_ARGS=$/;"	v
+CMD_LINE_ARGS	android/gradlew.bat	/^set CMD_LINE_ARGS=%*$/;"	v
+CMD_LINE_ARGS	android/gradlew.bat	/^set CMD_LINE_ARGS=%\$$/;"	v
+ClangVersion	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>ClangVersion<\/key>$/;"	k
+ClangVersion	build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>ClangVersion<\/key>$/;"	k
+ClangVersion	ios/Flutter/Flutter.framework/Info.plist	/^  <key>ClangVersion<\/key>$/;"	k
+DEFAULT_JVM_OPTS	android/gradlew.bat	/^set DEFAULT_JVM_OPTS=$/;"	v
+DIRNAME	android/gradlew.bat	/^if "%DIRNAME%" == "" set DIRNAME=.$/;"	v
+DIRNAME	android/gradlew.bat	/^set DIRNAME=%~dp0$/;"	v
+FLUTTER_ASSERT_ARC	ios/Flutter/Flutter.framework/Headers/FlutterMacros.h	/^#define FLUTTER_ASSERT_ARC /;"	d
+FLUTTER_ASSERT_ARC	ios/Flutter/Flutter.framework/Headers/FlutterMacros.h	/^#define FLUTTER_ASSERT_ARC$/;"	d
+FLUTTER_ASSERT_NOT_ARC	ios/Flutter/Flutter.framework/Headers/FlutterMacros.h	/^#define FLUTTER_ASSERT_NOT_ARC /;"	d
+FLUTTER_ASSERT_NOT_ARC	ios/Flutter/Flutter.framework/Headers/FlutterMacros.h	/^#define FLUTTER_ASSERT_NOT_ARC$/;"	d
+FLUTTER_DEPRECATED	ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h	/^FLUTTER_DEPRECATED("FlutterEngine should be used rather than FlutterHeadlessDartRunner")$/;"	f
+FLUTTER_DEPRECATED	ios/Flutter/Flutter.framework/Headers/FlutterMacros.h	/^#define FLUTTER_DEPRECATED(/;"	d
+FLUTTER_EXPORT	ios/Flutter/Flutter.framework/Headers/FlutterMacros.h	/^#define FLUTTER_EXPORT /;"	d
+FLUTTER_EXPORT	ios/Flutter/Flutter.framework/Headers/FlutterMacros.h	/^#define FLUTTER_EXPORT$/;"	d
+FLUTTER_FLUTTERAPPDELEGATE_H_	ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h	/^#define FLUTTER_FLUTTERAPPDELEGATE_H_$/;"	M
+FLUTTER_FLUTTERBINARYMESSENGER_H_	ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h	/^#define FLUTTER_FLUTTERBINARYMESSENGER_H_$/;"	M
+FLUTTER_FLUTTERCALLBACKCACHE_H_	ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h	/^#define FLUTTER_FLUTTERCALLBACKCACHE_H_$/;"	M
+FLUTTER_FLUTTERCHANNELS_H_	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^#define FLUTTER_FLUTTERCHANNELS_H_$/;"	M
+FLUTTER_FLUTTERCODECS_H_	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^#define FLUTTER_FLUTTERCODECS_H_$/;"	M
+FLUTTER_FLUTTERDARTPROJECT_H_	ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h	/^#define FLUTTER_FLUTTERDARTPROJECT_H_$/;"	M
+FLUTTER_FLUTTERENGINE_H_	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^#define FLUTTER_FLUTTERENGINE_H_$/;"	M
+FLUTTER_FLUTTERHEADLESSDARTRUNNER_H_	ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h	/^#define FLUTTER_FLUTTERHEADLESSDARTRUNNER_H_$/;"	M
+FLUTTER_FLUTTERMACROS_H_	ios/Flutter/Flutter.framework/Headers/FlutterMacros.h	/^#define FLUTTER_FLUTTERMACROS_H_$/;"	d
+FLUTTER_FLUTTERPLATFORMVIEWS_H_	ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h	/^#define FLUTTER_FLUTTERPLATFORMVIEWS_H_$/;"	M
+FLUTTER_FLUTTERPLUGINAPPLIFECYCLEDELEGATE_H_	ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h	/^#define FLUTTER_FLUTTERPLUGINAPPLIFECYCLEDELEGATE_H_$/;"	M
+FLUTTER_FLUTTERPLUGIN_H_	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^#define FLUTTER_FLUTTERPLUGIN_H_$/;"	M
+FLUTTER_FLUTTERTEXTURE_H_	ios/Flutter/Flutter.framework/Headers/FlutterTexture.h	/^#define FLUTTER_FLUTTERTEXTURE_H_$/;"	M
+FLUTTER_FLUTTERVIEWCONTROLLER_H_	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^#define FLUTTER_FLUTTERVIEWCONTROLLER_H_$/;"	M
+FLUTTER_FLUTTER_H_	ios/Flutter/Flutter.framework/Headers/Flutter.h	/^#define FLUTTER_FLUTTER_H_$/;"	d
+FLUTTER_UNAVAILABLE	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^FLUTTER_UNAVAILABLE("Unavailable on 2018-08-31. Deprecated on 2018-01-09. "$/;"	f
+FLUTTER_UNAVAILABLE	ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h	/^- (instancetype)initFromDefaultSourceForConfiguration FLUTTER_UNAVAILABLE("Use -init instead.");$/;"	m	interface:FlutterDartProject
+FLUTTER_UNAVAILABLE	ios/Flutter/Flutter.framework/Headers/FlutterMacros.h	/^#define FLUTTER_UNAVAILABLE(/;"	d
+FlutterAppDelegate	ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h	/^@interface FlutterAppDelegate$/;"	i	protocols:UIApplicationDelegate,FlutterPluginRegistry,FlutterAppLifeCycleProvider
+FlutterAppLifeCycleProvider	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^@protocol FlutterAppLifeCycleProvider$/;"	P	protocols:UNUserNotificationCenterDelegate
+FlutterBasicMessageChannel	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^@interface FlutterBasicMessageChannel : NSObject$/;"	i
+FlutterBinaryCodec	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@interface FlutterBinaryCodec : NSObject <FlutterMessageCodec>$/;"	i	protocols:FlutterMessageCodec
+FlutterBinaryMessenger	ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h	/^@protocol FlutterBinaryMessenger <NSObject>$/;"	P	protocols:NSObject
+FlutterCallbackCache	ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h	/^@interface FlutterCallbackCache : NSObject$/;"	i
+FlutterCallbackInformation	ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h	/^@interface FlutterCallbackInformation : NSObject$/;"	i
+FlutterDartProject	ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h	/^@interface FlutterDartProject : NSObject$/;"	i
+FlutterEngine	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>FlutterEngine<\/key>$/;"	k
+FlutterEngine	build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>FlutterEngine<\/key>$/;"	k
+FlutterEngine	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^@interface FlutterEngine : NSObject <FlutterTextureRegistry, FlutterPluginRegistry>$/;"	i	protocols:FlutterTextureRegistry,FlutterPluginRegistry
+FlutterEngine	ios/Flutter/Flutter.framework/Info.plist	/^  <key>FlutterEngine<\/key>$/;"	k
+FlutterError	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@interface FlutterError : NSObject$/;"	i
+FlutterEventChannel	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^@interface FlutterEventChannel : NSObject$/;"	i
+FlutterHeadlessDartRunner	ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h	/^@interface FlutterHeadlessDartRunner : FlutterEngine$/;"	i
+FlutterJSONMessageCodec	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@interface FlutterJSONMessageCodec : NSObject <FlutterMessageCodec>$/;"	i	protocols:FlutterMessageCodec
+FlutterJSONMethodCodec	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@interface FlutterJSONMethodCodec : NSObject <FlutterMethodCodec>$/;"	i	protocols:FlutterMethodCodec
+FlutterMessageCodec	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@protocol FlutterMessageCodec$/;"	P
+FlutterMethodCall	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@interface FlutterMethodCall : NSObject$/;"	i
+FlutterMethodChannel	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^@interface FlutterMethodChannel : NSObject$/;"	i
+FlutterMethodCodec	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@protocol FlutterMethodCodec$/;"	P
+FlutterPlatformView	ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h	/^@protocol FlutterPlatformView <NSObject>$/;"	P	protocols:NSObject
+FlutterPlatformViewFactory	ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h	/^@protocol FlutterPlatformViewFactory <NSObject>$/;"	P	protocols:NSObject
+FlutterPlugin	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^@protocol FlutterPlugin <NSObject, FlutterApplicationLifeCycleDelegate>$/;"	P	protocols:NSObject,FlutterApplicationLifeCycleDelegate
+FlutterPluginAppLifeCycleDelegate	ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h	/^@interface FlutterPluginAppLifeCycleDelegate : NSObject$/;"	i	protocols:UNUserNotificationCenterDelegate
+FlutterPluginRegistrar	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^@protocol FlutterPluginRegistrar <NSObject>$/;"	P	protocols:NSObject
+FlutterPluginRegistrar	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^@protocol FlutterPluginRegistrar;$/;"	P
+FlutterPluginRegistry	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^@protocol FlutterPluginRegistry <NSObject>$/;"	P	protocols:NSObject
+FlutterStandardBigInteger	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@interface FlutterStandardBigInteger : NSObject$/;"	i
+FlutterStandardDataTypeFloat64	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^};$/;"	t
+FlutterStandardMessageCodec	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@interface FlutterStandardMessageCodec : NSObject <FlutterMessageCodec>$/;"	i	protocols:FlutterMessageCodec
+FlutterStandardMethodCodec	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@interface FlutterStandardMethodCodec : NSObject <FlutterMethodCodec>$/;"	i	protocols:FlutterMethodCodec
+FlutterStandardReader	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@interface FlutterStandardReader : NSObject$/;"	i
+FlutterStandardReaderWriter	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@interface FlutterStandardReaderWriter : NSObject$/;"	i
+FlutterStandardTypedData	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@interface FlutterStandardTypedData : NSObject$/;"	i
+FlutterStandardWriter	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@interface FlutterStandardWriter : NSObject$/;"	i
+FlutterStreamHandler	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^@protocol FlutterStreamHandler$/;"	P
+FlutterStringCodec	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@interface FlutterStringCodec : NSObject <FlutterMessageCodec>$/;"	i	protocols:FlutterMessageCodec
+FlutterTexture	ios/Flutter/Flutter.framework/Headers/FlutterTexture.h	/^@protocol FlutterTexture <NSObject>$/;"	P	protocols:NSObject
+FlutterTextureRegistry	ios/Flutter/Flutter.framework/Headers/FlutterTexture.h	/^@protocol FlutterTextureRegistry <NSObject>$/;"	P	protocols:NSObject
+FlutterViewController	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^@interface FlutterViewController : UIViewController <FlutterTextureRegistry, FlutterPluginRegist/;"	i	protocols:FlutterTextureRegistry,FlutterPluginRegistry
+GeneratedPluginRegistrant	android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java	/^public final class GeneratedPluginRegistrant {$/;"	c
+GeneratedPluginRegistrant	ios/Runner/GeneratedPluginRegistrant.h	/^@interface GeneratedPluginRegistrant : NSObject$/;"	i
+GeneratedPluginRegistrant	ios/Runner/GeneratedPluginRegistrant.m	/^@implementation GeneratedPluginRegistrant$/;"	I
+GeneratedPluginRegistrant_h	ios/Runner/GeneratedPluginRegistrant.h	/^#define GeneratedPluginRegistrant_h$/;"	M
+Getting Started	README.md	/^## Getting Started$/;"	s	chapter:app
+JAVA_EXE	android/gradlew.bat	/^set JAVA_EXE=%JAVA_HOME%\/bin\/java.exe$/;"	v
+JAVA_EXE	android/gradlew.bat	/^set JAVA_EXE=java.exe$/;"	v
+JAVA_HOME	android/gradlew.bat	/^set JAVA_HOME=%JAVA_HOME:"=%$/;"	v
+LSRequiresIPhoneOS	ios/Runner/Info.plist	/^	<key>LSRequiresIPhoneOS<\/key>$/;"	k
+Launch Screen Assets	ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md	/^# Launch Screen Assets$/;"	c
+MinimumOSVersion	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>MinimumOSVersion<\/key>$/;"	k
+MinimumOSVersion	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>MinimumOSVersion<\/key>$/;"	k
+MinimumOSVersion	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/Info.plist	/^  <key>MinimumOSVersion<\/key>$/;"	k
+MinimumOSVersion	build/ios/iphonesimulator/Runner.app/Frameworks/Flutter.framework/Info.plist	/^  <key>MinimumOSVersion<\/key>$/;"	k
+MinimumOSVersion	ios/Flutter/App.framework/Info.plist	/^  <key>MinimumOSVersion<\/key>$/;"	k
+MinimumOSVersion	ios/Flutter/AppFrameworkInfo.plist	/^  <key>MinimumOSVersion<\/key>$/;"	k
+MinimumOSVersion	ios/Flutter/Flutter.framework/Info.plist	/^  <key>MinimumOSVersion<\/key>$/;"	k
+NS_ASSUME_NONNULL_BEGIN	ios/Flutter/Flutter.framework/Headers/FlutterMacros.h	/^#define NS_ASSUME_NONNULL_BEGIN /;"	d
+NS_ASSUME_NONNULL_END	ios/Flutter/Flutter.framework/Headers/FlutterMacros.h	/^#define NS_ASSUME_NONNULL_END /;"	d
+NS_UNAVAILABLE	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^+ (instancetype)new NS_UNAVAILABLE;$/;"	c	interface:FlutterEngine
+NS_UNAVAILABLE	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^- (instancetype)init NS_UNAVAILABLE;$/;"	m	interface:FlutterEngine
+Project	.idea/workspace.xml	/^      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DO/;"	i
+ProjectPane	.idea/workspace.xml	/^      <pane id="ProjectPane">$/;"	i
+UILaunchStoryboardName	ios/Runner/Info.plist	/^	<key>UILaunchStoryboardName<\/key>$/;"	k
+UIMainStoryboardFile	ios/Runner/Info.plist	/^	<key>UIMainStoryboardFile<\/key>$/;"	k
+UISupportedInterfaceOrientations	ios/Runner/Info.plist	/^	<key>UISupportedInterfaceOrientations<\/key>$/;"	k
+UISupportedInterfaceOrientations~ipad	ios/Runner/Info.plist	/^	<key>UISupportedInterfaceOrientations~ipad<\/key>$/;"	k
+UIViewControllerBasedStatusBarAppearance	ios/Runner/Info.plist	/^	<key>UIViewControllerBasedStatusBarAppearance<\/key>$/;"	k
+_SKIP	android/gradlew.bat	/^set _SKIP=2$/;"	v
+addApplicationDelegate:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (void)addApplicationDelegate:(NSObject<FlutterPlugin>*)delegate;$/;"	m	protocol:FlutterPluginRegistrar
+addApplicationLifeCycleDelegate:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (void)addApplicationLifeCycleDelegate:(NSObject<FlutterApplicationLifeCycleDelegate>*)delegate/;"	m	protocol:FlutterAppLifeCycleProvider
+addDelegate:	ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h	/^- (void)addDelegate:(NSObject<FlutterApplicationLifeCycleDelegate>*)delegate;$/;"	m	interface:FlutterPluginAppLifeCycleDelegate
+addMethodCallDelegate:channel:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^                      channel:(FlutterMethodChannel*)channel;$/;"	m	protocol:FlutterPluginRegistrar
+android	android/app/src/debug/AndroidManifest.xml	/^    package="com.example.app">$/;"	n	uri:http://schemas.android.com/apk/res/android
+android	android/app/src/main/AndroidManifest.xml	/^    package="com.example.app">$/;"	n	uri:http://schemas.android.com/apk/res/android
+android	android/app/src/main/res/drawable/launch_background.xml	/^<layer-list xmlns:android="http:\/\/schemas.android.com\/apk\/res\/android">$/;"	n	uri:http://schemas.android.com/apk/res/android
+android	android/app/src/profile/AndroidManifest.xml	/^    package="com.example.app">$/;"	n	uri:http://schemas.android.com/apk/res/android
+android.enableJetifier	android/gradle.properties	/^android.enableJetifier=true$/;"	k
+android.enableR8	android/gradle.properties	/^android.enableR8=true$/;"	k
+android.useAndroidX	android/gradle.properties	/^android.useAndroidX=true$/;"	k
+app	README.md	/^# app$/;"	c
+application:continueUserActivity:restorationHandler:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^      restorationHandler:(void (^)(NSArray*))restorationHandler;$/;"	m	protocol:FlutterPluginRegistrar
+application:continueUserActivity:restorationHandler:	ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h	/^      restorationHandler:(void (^)(NSArray*))restorationHandler;$/;"	m	interface:FlutterPluginAppLifeCycleDelegate
+application:didFinishLaunchingWithOptions:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^    didFinishLaunchingWithOptions:(NSDictionary*)launchOptions;$/;"	m	protocol:FlutterPluginRegistrar
+application:didFinishLaunchingWithOptions:	ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h	/^    didFinishLaunchingWithOptions:(NSDictionary*)launchOptions;$/;"	m	interface:FlutterPluginAppLifeCycleDelegate
+application:didReceiveLocalNotification:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^        ios(4.0, 10.0));$/;"	m	protocol:FlutterPluginRegistrar
+application:didReceiveLocalNotification:	ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h	/^        ios(4.0, 10.0));$/;"	m	interface:FlutterPluginAppLifeCycleDelegate
+application:didReceiveRemoteNotification:fetchCompletionHandler:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^          fetchCompletionHandler:(void (^)(UIBackgroundFetchResult result))completionHandler;$/;"	m	protocol:FlutterPluginRegistrar
+application:didReceiveRemoteNotification:fetchCompletionHandler:	ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h	/^          fetchCompletionHandler:(void (^)(UIBackgroundFetchResult result))completionHandler;$/;"	m	interface:FlutterPluginAppLifeCycleDelegate
+application:didRegisterForRemoteNotificationsWithDeviceToken:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^    didRegisterForRemoteNotificationsWithDeviceToken:(NSData*)deviceToken;$/;"	m	protocol:FlutterPluginRegistrar
+application:didRegisterForRemoteNotificationsWithDeviceToken:	ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h	/^    didRegisterForRemoteNotificationsWithDeviceToken:(NSData*)deviceToken;$/;"	m	interface:FlutterPluginAppLifeCycleDelegate
+application:didRegisterUserNotificationSettings:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^        ios(8.0, 10.0));$/;"	m	protocol:FlutterPluginRegistrar
+application:didRegisterUserNotificationSettings:	ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h	/^        ios(8.0, 10.0));$/;"	m	interface:FlutterPluginAppLifeCycleDelegate
+application:handleEventsForBackgroundURLSession:completionHandler:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^                      completionHandler:(nonnull void (^)(void))completionHandler;$/;"	m	protocol:FlutterPluginRegistrar
+application:handleEventsForBackgroundURLSession:completionHandler:	ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h	/^                      completionHandler:(nonnull void (^)(void))completionHandler;$/;"	m	interface:FlutterPluginAppLifeCycleDelegate
+application:handleOpenURL:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (BOOL)application:(UIApplication*)application handleOpenURL:(NSURL*)url;$/;"	m	protocol:FlutterPluginRegistrar
+application:handleOpenURL:	ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h	/^- (BOOL)application:(UIApplication*)application handleOpenURL:(NSURL*)url;$/;"	m	interface:FlutterPluginAppLifeCycleDelegate
+application:openURL:options:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^            options:(NSDictionary<UIApplicationOpenURLOptionsKey, id>*)options;$/;"	m	protocol:FlutterPluginRegistrar
+application:openURL:options:	ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h	/^            options:(NSDictionary<UIApplicationOpenURLOptionsKey, id>*)options;$/;"	m	interface:FlutterPluginAppLifeCycleDelegate
+application:openURL:sourceApplication:annotation:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^           annotation:(id)annotation;$/;"	m	protocol:FlutterPluginRegistrar
+application:openURL:sourceApplication:annotation:	ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h	/^           annotation:(id)annotation;$/;"	m	interface:FlutterPluginAppLifeCycleDelegate
+application:performActionForShortcutItem:completionHandler:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^    API_AVAILABLE(ios(9.0));$/;"	m	protocol:FlutterPluginRegistrar
+application:performActionForShortcutItem:completionHandler:	ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h	/^    API_AVAILABLE(ios(9.0));$/;"	m	interface:FlutterPluginAppLifeCycleDelegate
+application:performFetchWithCompletionHandler:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^    performFetchWithCompletionHandler:(void (^)(UIBackgroundFetchResult result))completionHandle/;"	m	protocol:FlutterPluginRegistrar
+application:performFetchWithCompletionHandler:	ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h	/^    performFetchWithCompletionHandler:(void (^)(UIBackgroundFetchResult result))completionHandle/;"	m	interface:FlutterPluginAppLifeCycleDelegate
+application:willFinishLaunchingWithOptions:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^    willFinishLaunchingWithOptions:(NSDictionary*)launchOptions;$/;"	m	protocol:FlutterPluginRegistrar
+application:willFinishLaunchingWithOptions:	ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h	/^    willFinishLaunchingWithOptions:(NSDictionary*)launchOptions;$/;"	m	interface:FlutterPluginAppLifeCycleDelegate
+applicationDidBecomeActive:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (void)applicationDidBecomeActive:(UIApplication*)application;$/;"	m	protocol:FlutterPluginRegistrar
+applicationDidEnterBackground:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (void)applicationDidEnterBackground:(UIApplication*)application;$/;"	m	protocol:FlutterPluginRegistrar
+applicationWillEnterForeground:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (void)applicationWillEnterForeground:(UIApplication*)application;$/;"	m	protocol:FlutterPluginRegistrar
+applicationWillResignActive:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (void)applicationWillResignActive:(UIApplication*)application;$/;"	m	protocol:FlutterPluginRegistrar
+applicationWillTerminate:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (void)applicationWillTerminate:(UIApplication*)application;$/;"	m	protocol:FlutterPluginRegistrar
+arguments	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@property(readonly, nonatomic, nullable) id arguments;$/;"	p	interface:FlutterMethodCall
+asset	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	s	object:0.fonts.0
+asset	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	s	object:1.fonts.0
+asset	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	s	object:0.fonts.0
+asset	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	s	object:1.fonts.0
+asset	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	s	object:0.fonts.0
+asset	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	s	object:1.fonts.0
+asset	ios/Flutter/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	s	object:0.fonts.0
+asset	ios/Flutter/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	s	object:1.fonts.0
+assets/images/gondola.jpg	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/gondola.jpg	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/gondola.jpg	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/gondola.jpg	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/hotel0.jpg	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/hotel0.jpg	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/hotel0.jpg	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/hotel0.jpg	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/hotel1.jpg	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/hotel1.jpg	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/hotel1.jpg	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/hotel1.jpg	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/hotel2.jpg	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/hotel2.jpg	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/hotel2.jpg	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/hotel2.jpg	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/murano.jpg	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/murano.jpg	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/murano.jpg	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/murano.jpg	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/newdelhi.jpg	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/newdelhi.jpg	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/newdelhi.jpg	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/newdelhi.jpg	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/newyork.jpg	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/newyork.jpg	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/newyork.jpg	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/newyork.jpg	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/paris.jpg	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/paris.jpg	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/paris.jpg	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/paris.jpg	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/santorini.jpg	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/santorini.jpg	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/santorini.jpg	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/santorini.jpg	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/saopaulo.jpg	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/saopaulo.jpg	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/saopaulo.jpg	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/saopaulo.jpg	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/stmarksbasilica.jpg	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/stmarksbasilica.jpg	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/stmarksbasilica.jpg	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/stmarksbasilica.jpg	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/venice.jpg	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/venice.jpg	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/venice.jpg	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+assets/images/venice.jpg	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+author	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    "author" : "xcode"$/;"	s	object:info
+author	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^    "author" : "xcode"$/;"	s	object:info
+binaryMessenger	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^@property(nonatomic, readonly) NSObject<FlutterBinaryMessenger>* binaryMessenger;$/;"	p	interface:FlutterEngine
+binaryMessenger	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^@property(nonatomic, readonly) NSObject<FlutterBinaryMessenger>* binaryMessenger;$/;"	p	interface:FlutterViewController
+callback	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^typedef void (^FlutterMessageHandler)(id _Nullable message, FlutterReply callback);$/;"	t
+callbackClassName	ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h	/^@property(retain) NSString* callbackClassName;$/;"	p	interface:FlutterCallbackInformation
+callbackLibraryPath	ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h	/^@property(retain) NSString* callbackLibraryPath;$/;"	p	interface:FlutterCallbackInformation
+callbackName	ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h	/^@property(retain) NSString* callbackName;$/;"	p	interface:FlutterCallbackInformation
+code	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@property(readonly, nonatomic) NSString* code;$/;"	p	interface:FlutterError
+codecWithReaderWriter:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^+ (instancetype)codecWithReaderWriter:(FlutterStandardReaderWriter*)readerWriter;$/;"	c	interface:FlutterStandardMessageCodec
+codecWithReaderWriter:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^+ (instancetype)codecWithReaderWriter:(FlutterStandardReaderWriter*)readerWriter;$/;"	c	interface:FlutterStandardMethodCodec
+configVersion	.dart_tool/package_config.json	/^  "configVersion": 2,$/;"	n
+copyPixelBuffer	ios/Flutter/Flutter.framework/Headers/FlutterTexture.h	/^- (CVPixelBufferRef _Nullable)copyPixelBuffer;$/;"	m	protocol:FlutterTexture
+createArgsCodec	ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h	/^- (NSObject<FlutterMessageCodec>*)createArgsCodec;$/;"	m	protocol:FlutterPlatformViewFactory
+createWithFrame:viewIdentifier:arguments:	ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h	/^                                        arguments:(id _Nullable)args;$/;"	m	protocol:FlutterPlatformViewFactory
+data	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@property(readonly, nonatomic) NSData* data;$/;"	p	interface:FlutterStandardTypedData
+decode:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (id _Nullable)decode:(NSData* _Nullable)message;$/;"	m	protocol:FlutterMessageCodec
+decodeEnvelope:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (id _Nullable)decodeEnvelope:(NSData*)envelope;$/;"	m	protocol:FlutterMethodCodec
+decodeMethodCall:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (FlutterMethodCall*)decodeMethodCall:(NSData*)methodCall;$/;"	m	protocol:FlutterMethodCodec
+defaultBundleIdentifier	ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h	/^+ (NSString*)defaultBundleIdentifier;$/;"	c	interface:FlutterDartProject
+destroyContext	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^- (void)destroyContext;$/;"	m	interface:FlutterEngine
+details	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@property(readonly, nonatomic, nullable) id details;$/;"	p	interface:FlutterError
+die	android/gradlew	/^die ( ) {$/;"	f
+displayingFlutterUI	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^@property(nonatomic, readonly, getter=isDisplayingFlutterUI) BOOL displayingFlutterUI;$/;"	p	interface:FlutterViewController
+distributionBase	android/gradle/wrapper/gradle-wrapper.properties	/^distributionBase=GRADLE_USER_HOME$/;"	k
+distributionPath	android/gradle/wrapper/gradle-wrapper.properties	/^distributionPath=wrapper\/dists$/;"	k
+distributionUrl	android/gradle/wrapper/gradle-wrapper.properties	/^distributionUrl=https\\:\/\/services.gradle.org\/distributions\/gradle-5.6.2-all.zip$/;"	k
+elementCount	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@property(readonly, nonatomic) UInt32 elementCount;$/;"	p	interface:FlutterStandardTypedData
+elementSize	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@property(readonly, nonatomic) UInt8 elementSize;$/;"	p	interface:FlutterStandardTypedData
+encode:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (NSData* _Nullable)encode:(id _Nullable)message;$/;"	m	protocol:FlutterMessageCodec
+encodeErrorEnvelope:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (NSData*)encodeErrorEnvelope:(FlutterError*)error;$/;"	m	protocol:FlutterMethodCodec
+encodeMethodCall:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (NSData*)encodeMethodCall:(FlutterMethodCall*)methodCall;$/;"	m	protocol:FlutterMethodCodec
+encodeSuccessEnvelope:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (NSData*)encodeSuccessEnvelope:(id _Nullable)result;$/;"	m	protocol:FlutterMethodCodec
+end	android/gradlew.bat	/^:end$/;"	l
+engine	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^@property(weak, nonatomic, readonly) FlutterEngine* engine;$/;"	p	interface:FlutterViewController
+ensureSemanticsEnabled	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^- (void)ensureSemanticsEnabled;$/;"	m	interface:FlutterEngine
+errorWithCode:message:details:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^                      details:(id _Nullable)details;$/;"	c	interface:FlutterError
+event	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^typedef void (^FlutterEventSink)(id _Nullable event);$/;"	t
+eventChannelWithName:binaryMessenger:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^                     binaryMessenger:(NSObject<FlutterBinaryMessenger>*)messenger;$/;"	c	interface:FlutterEventChannel
+eventChannelWithName:binaryMessenger:codec:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^                               codec:(NSObject<FlutterMethodCodec>*)codec;$/;"	c	interface:FlutterEventChannel
+execute	android/gradlew.bat	/^:execute$/;"	l
+fail	android/gradlew.bat	/^:fail$/;"	l
+family	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	s	object:0
+family	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	s	object:1
+family	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	s	object:0
+family	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	s	object:1
+family	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	s	object:0
+family	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	s	object:1
+family	ios/Flutter/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	s	object:0
+family	ios/Flutter/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	s	object:1
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-1024x1024@1x.png",$/;"	s	object:images.18
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-20x20@1x.png",$/;"	s	object:images.9
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-20x20@2x.png",$/;"	s	object:images.0
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-20x20@2x.png",$/;"	s	object:images.10
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-20x20@3x.png",$/;"	s	object:images.1
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-29x29@1x.png",$/;"	s	object:images.11
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-29x29@1x.png",$/;"	s	object:images.2
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-29x29@2x.png",$/;"	s	object:images.12
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-29x29@2x.png",$/;"	s	object:images.3
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-29x29@3x.png",$/;"	s	object:images.4
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-40x40@1x.png",$/;"	s	object:images.13
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-40x40@2x.png",$/;"	s	object:images.14
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-40x40@2x.png",$/;"	s	object:images.5
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-40x40@3x.png",$/;"	s	object:images.6
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-60x60@2x.png",$/;"	s	object:images.7
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-60x60@3x.png",$/;"	s	object:images.8
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-76x76@1x.png",$/;"	s	object:images.15
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-76x76@2x.png",$/;"	s	object:images.16
+filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-83.5x83.5@2x.png",$/;"	s	object:images.17
+filename	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "filename" : "LaunchImage.png",$/;"	s	object:images.0
+filename	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "filename" : "LaunchImage@2x.png",$/;"	s	object:images.1
+filename	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "filename" : "LaunchImage@3x.png",$/;"	s	object:images.2
+findJavaFromJavaHome	android/gradlew.bat	/^:findJavaFromJavaHome$/;"	l
+flutter.sdk	android/local.properties	/^flutter.sdk=\/Users\/stevenjohn\/flutter/;"	k
+fonts	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	a	object:0
+fonts	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	a	object:1
+fonts	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	a	object:0
+fonts	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	a	object:1
+fonts	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	a	object:0
+fonts	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	a	object:1
+fonts	ios/Flutter/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	a	object:0
+fonts	ios/Flutter/App.framework/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.ttf"}]},{"family":"pa/;"	a	object:1
+generated	.dart_tool/package_config.json	/^  "generated": "2020-04-03T12:38:37.118498Z",$/;"	s
+generator	.dart_tool/package_config.json	/^  "generator": "pub",$/;"	s
+generatorVersion	.dart_tool/package_config.json	/^  "generatorVersion": "2.7.0"$/;"	s
+handleMethodCall:result:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (void)handleMethodCall:(FlutterMethodCall*)call result:(FlutterResult)result;$/;"	m	protocol:FlutterPlugin
+handleStatusBarTouches:	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^- (void)handleStatusBarTouches:(UIEvent*)event;$/;"	m	interface:FlutterViewController
+handleStatusBarTouches:withEvent:	ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h	/^+ (void)handleStatusBarTouches:(NSSet<UITouch*>*)touches withEvent:(UIEvent*)event;$/;"	c	interface:FlutterAppDelegate
+hasMore	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (BOOL)hasMore;$/;"	m	interface:FlutterStandardReader
+hasPlugin:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (BOOL)hasPlugin:(NSString*)pluginKey;$/;"	m	protocol:FlutterPluginRegistry
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ios-marketing",$/;"	s	object:images.18
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.10
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.11
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.12
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.13
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.14
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.15
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.16
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.17
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.9
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.0
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.1
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.2
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.3
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.4
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.5
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.6
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.7
+idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	s	object:images.8
+idiom	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "idiom" : "universal",$/;"	s	object:images.0
+idiom	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "idiom" : "universal",$/;"	s	object:images.1
+idiom	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "idiom" : "universal",$/;"	s	object:images.2
+images	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^  "images" : [$/;"	a
+images	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^  "images" : [$/;"	a
+info	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^  "info" : {$/;"	o
+info	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^  "info" : {$/;"	o
+init	android/gradlew.bat	/^:init$/;"	l
+init	ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h	/^- (instancetype)init;$/;"	m	interface:FlutterHeadlessDartRunner
+initWithData:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (instancetype)initWithData:(NSData*)data;$/;"	m	interface:FlutterStandardReader
+initWithData:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (instancetype)initWithData:(NSMutableData*)data;$/;"	m	interface:FlutterStandardWriter
+initWithEngine:nibName:bundle:	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^                        bundle:(nullable NSBundle*)nibBundle NS_DESIGNATED_INITIALIZER;$/;"	m	interface:FlutterViewController
+initWithName:	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^- (instancetype)initWithName:(NSString*)labelPrefix;$/;"	m	interface:FlutterEngine
+initWithName:binaryMessenger:codec:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^                       codec:(NSObject<FlutterMessageCodec>*)codec;$/;"	m	interface:FlutterBasicMessageChannel
+initWithName:binaryMessenger:codec:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^                       codec:(NSObject<FlutterMethodCodec>*)codec;$/;"	m	interface:FlutterEventChannel
+initWithName:binaryMessenger:codec:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^                       codec:(NSObject<FlutterMethodCodec>*)codec;$/;"	m	interface:FlutterMethodChannel
+initWithName:project:	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^- (instancetype)initWithName:(NSString*)labelPrefix project:(nullable FlutterDartProject*)projec/;"	m	interface:FlutterEngine
+initWithName:project:	ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h	/^- (instancetype)initWithName:(NSString*)labelPrefix project:(FlutterDartProject*)projectOrNil;$/;"	m	interface:FlutterHeadlessDartRunner
+initWithName:project:allowHeadlessExecution:	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^      allowHeadlessExecution:(BOOL)allowHeadlessExecution NS_DESIGNATED_INITIALIZER;$/;"	m	interface:FlutterEngine
+initWithName:project:allowHeadlessExecution:	ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h	/^      allowHeadlessExecution:(BOOL)allowHeadlessExecution NS_DESIGNATED_INITIALIZER;$/;"	m	interface:FlutterHeadlessDartRunner
+initWithPrecompiledDartBundle:	ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h	/^- (instancetype)initWithPrecompiledDartBundle:(nullable NSBundle*)bundle NS_DESIGNATED_INITIALIZ/;"	m	interface:FlutterDartProject
+initWithProject:nibName:bundle:	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^                         bundle:(nullable NSBundle*)nibBundle NS_DESIGNATED_INITIALIZER;$/;"	m	interface:FlutterViewController
+invokeMethod:arguments:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^- (void)invokeMethod:(NSString*)method arguments:(id _Nullable)arguments;$/;"	m	interface:FlutterMethodChannel
+invokeMethod:arguments:result:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^              result:(FlutterResult _Nullable)callback;$/;"	m	interface:FlutterMethodChannel
+io.flutter.plugins	android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java	/^package io.flutter.plugins;$/;"	p
+isGpuDisabled	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^@property(nonatomic, assign) BOOL isGpuDisabled;$/;"	p	interface:FlutterEngine
+isolateId	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^@property(nonatomic, readonly, copy, nullable) NSString* isolateId;$/;"	p	interface:FlutterEngine
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "1.0"$/;"	s	object:packages.4
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "1.11"$/;"	s	object:packages.18
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "1.12"$/;"	s	object:packages.13
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "1.17"$/;"	s	object:packages.6
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "1.23"$/;"	s	object:packages.20
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "1.8"$/;"	s	object:packages.19
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "1.8"$/;"	s	object:packages.23
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.0"$/;"	s	object:packages.0
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.0"$/;"	s	object:packages.1
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.0"$/;"	s	object:packages.11
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.0"$/;"	s	object:packages.14
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.0"$/;"	s	object:packages.17
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.0"$/;"	s	object:packages.2
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.0"$/;"	s	object:packages.21
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.0"$/;"	s	object:packages.22
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.0"$/;"	s	object:packages.25
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.0"$/;"	s	object:packages.26
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.0"$/;"	s	object:packages.3
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.0"$/;"	s	object:packages.5
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.0"$/;"	s	object:packages.8
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.1"$/;"	s	object:packages.15
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.1"$/;"	s	object:packages.28
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.1"$/;"	s	object:packages.7
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.2"$/;"	s	object:packages.10
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.2"$/;"	s	object:packages.12
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.2"$/;"	s	object:packages.24
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.2"$/;"	s	object:packages.9
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.3"$/;"	s	object:packages.27
+languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.4"$/;"	s	object:packages.16
+lifecycleChannel	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^@property(nonatomic, readonly) FlutterBasicMessageChannel* lifecycleChannel;$/;"	p	interface:FlutterEngine
+loadDefaultSplashScreenView	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^- (BOOL)loadDefaultSplashScreenView;$/;"	m	interface:FlutterViewController
+localizationChannel	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^@property(nonatomic, readonly, nullable) FlutterMethodChannel* localizationChannel;$/;"	p	interface:FlutterEngine
+lookupCallbackInformation:	ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h	/^+ (FlutterCallbackInformation*)lookupCallbackInformation:(int64_t)handle;$/;"	c	interface:FlutterCallbackCache
+lookupKeyForAsset:	ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h	/^+ (NSString*)lookupKeyForAsset:(NSString*)asset;$/;"	c	interface:FlutterDartProject
+lookupKeyForAsset:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (NSString*)lookupKeyForAsset:(NSString*)asset;$/;"	m	protocol:FlutterPluginRegistrar
+lookupKeyForAsset:	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^- (NSString*)lookupKeyForAsset:(NSString*)asset;$/;"	m	interface:FlutterViewController
+lookupKeyForAsset:fromBundle:	ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h	/^+ (NSString*)lookupKeyForAsset:(NSString*)asset fromBundle:(nullable NSBundle*)bundle;$/;"	c	interface:FlutterDartProject
+lookupKeyForAsset:fromPackage:	ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h	/^+ (NSString*)lookupKeyForAsset:(NSString*)asset fromPackage:(NSString*)package;$/;"	c	interface:FlutterDartProject
+lookupKeyForAsset:fromPackage:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (NSString*)lookupKeyForAsset:(NSString*)asset fromPackage:(NSString*)package;$/;"	m	protocol:FlutterPluginRegistrar
+lookupKeyForAsset:fromPackage:	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^- (NSString*)lookupKeyForAsset:(NSString*)asset fromPackage:(NSString*)package;$/;"	m	interface:FlutterViewController
+lookupKeyForAsset:fromPackage:fromBundle:	ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h	/^                    fromBundle:(nullable NSBundle*)bundle;$/;"	c	interface:FlutterDartProject
+mainEnd	android/gradlew.bat	/^:mainEnd$/;"	l
+message	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@property(readonly, nonatomic, nullable) NSString* message;$/;"	p	interface:FlutterError
+messageChannelWithName:binaryMessenger:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^                       binaryMessenger:(NSObject<FlutterBinaryMessenger>*)messenger;$/;"	c	interface:FlutterBasicMessageChannel
+messageChannelWithName:binaryMessenger:codec:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^                                 codec:(NSObject<FlutterMessageCodec>*)codec;$/;"	c	interface:FlutterBasicMessageChannel
+messenger	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (NSObject<FlutterBinaryMessenger>*)messenger;$/;"	m	protocol:FlutterPluginRegistrar
+method	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@property(readonly, nonatomic) NSString* method;$/;"	p	interface:FlutterMethodCall
+methodCallWithMethodName:arguments:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^+ (instancetype)methodCallWithMethodName:(NSString*)method arguments:(id _Nullable)arguments;$/;"	c	interface:FlutterMethodCall
+methodChannelWithName:binaryMessenger:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^                      binaryMessenger:(NSObject<FlutterBinaryMessenger>*)messenger;$/;"	c	interface:FlutterMethodChannel
+methodChannelWithName:binaryMessenger:codec:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^                                codec:(NSObject<FlutterMethodCodec>*)codec;$/;"	c	interface:FlutterMethodChannel
+name	.dart_tool/package_config.json	/^      "name": "app",$/;"	s	object:packages.28
+name	.dart_tool/package_config.json	/^      "name": "archive",$/;"	s	object:packages.0
+name	.dart_tool/package_config.json	/^      "name": "args",$/;"	s	object:packages.1
+name	.dart_tool/package_config.json	/^      "name": "async",$/;"	s	object:packages.2
+name	.dart_tool/package_config.json	/^      "name": "boolean_selector",$/;"	s	object:packages.3
+name	.dart_tool/package_config.json	/^      "name": "charcode",$/;"	s	object:packages.4
+name	.dart_tool/package_config.json	/^      "name": "collection",$/;"	s	object:packages.5
+name	.dart_tool/package_config.json	/^      "name": "convert",$/;"	s	object:packages.6
+name	.dart_tool/package_config.json	/^      "name": "crypto",$/;"	s	object:packages.7
+name	.dart_tool/package_config.json	/^      "name": "cupertino_icons",$/;"	s	object:packages.8
+name	.dart_tool/package_config.json	/^      "name": "flutter",$/;"	s	object:packages.9
+name	.dart_tool/package_config.json	/^      "name": "flutter_test",$/;"	s	object:packages.10
+name	.dart_tool/package_config.json	/^      "name": "image",$/;"	s	object:packages.11
+name	.dart_tool/package_config.json	/^      "name": "matcher",$/;"	s	object:packages.12
+name	.dart_tool/package_config.json	/^      "name": "meta",$/;"	s	object:packages.13
+name	.dart_tool/package_config.json	/^      "name": "path",$/;"	s	object:packages.14
+name	.dart_tool/package_config.json	/^      "name": "pedantic",$/;"	s	object:packages.15
+name	.dart_tool/package_config.json	/^      "name": "petitparser",$/;"	s	object:packages.16
+name	.dart_tool/package_config.json	/^      "name": "quiver",$/;"	s	object:packages.17
+name	.dart_tool/package_config.json	/^      "name": "sky_engine",$/;"	s	object:packages.18
+name	.dart_tool/package_config.json	/^      "name": "source_span",$/;"	s	object:packages.19
+name	.dart_tool/package_config.json	/^      "name": "stack_trace",$/;"	s	object:packages.20
+name	.dart_tool/package_config.json	/^      "name": "stream_channel",$/;"	s	object:packages.21
+name	.dart_tool/package_config.json	/^      "name": "string_scanner",$/;"	s	object:packages.22
+name	.dart_tool/package_config.json	/^      "name": "term_glyph",$/;"	s	object:packages.23
+name	.dart_tool/package_config.json	/^      "name": "test_api",$/;"	s	object:packages.24
+name	.dart_tool/package_config.json	/^      "name": "typed_data",$/;"	s	object:packages.25
+name	.dart_tool/package_config.json	/^      "name": "vector_math",$/;"	s	object:packages.26
+name	.dart_tool/package_config.json	/^      "name": "xml",$/;"	s	object:packages.27
+navigationChannel	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^@property(nonatomic, readonly) FlutterMethodChannel* navigationChannel;$/;"	p	interface:FlutterEngine
+observatoryUrl	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^@property(nonatomic, readonly, nullable) NSURL* observatoryUrl;$/;"	p	interface:FlutterEngine
+omega	android/gradlew.bat	/^:omega$/;"	l
+onCancelWithArguments:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^- (FlutterError* _Nullable)onCancelWithArguments:(id _Nullable)arguments;$/;"	m	protocol:FlutterStreamHandler
+onListenWithArguments:eventSink:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^                                       eventSink:(FlutterEventSink)events;$/;"	m	protocol:FlutterStreamHandler
+onTextureUnregistered:	ios/Flutter/Flutter.framework/Headers/FlutterTexture.h	/^- (void)onTextureUnregistered:(NSObject<FlutterTexture>*)texture;$/;"	m	protocol:FlutterTexture
+org.gradle.jvmargs	android/gradle.properties	/^org.gradle.jvmargs=-Xmx1536M$/;"	k
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.0
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.1
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.10
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.11
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.12
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.13
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.14
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.15
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.16
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.17
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.18
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.19
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.2
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.20
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.21
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.22
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.23
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.24
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.25
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.26
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.27
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.28
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.3
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.4
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.5
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.6
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.7
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.8
+packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.9
+packages	.dart_tool/package_config.json	/^  "packages": [$/;"	a
+packages/cupertino_icons/assets/CupertinoIcons.ttf	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+packages/cupertino_icons/assets/CupertinoIcons.ttf	build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+packages/cupertino_icons/assets/CupertinoIcons.ttf	build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+packages/cupertino_icons/assets/CupertinoIcons.ttf	ios/Flutter/App.framework/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+platformChannel	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^@property(nonatomic, readonly) FlutterMethodChannel* platformChannel;$/;"	p	interface:FlutterEngine
+pluginRegistry	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^- (id<FlutterPluginRegistry>)pluginRegistry;$/;"	m	interface:FlutterViewController
+popRoute	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^- (void)popRoute;$/;"	m	interface:FlutterViewController
+publish:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (void)publish:(NSObject*)value;$/;"	m	protocol:FlutterPluginRegistrar
+pushRoute:	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^- (void)pushRoute:(NSString*)route;$/;"	m	interface:FlutterViewController
+readAlignment:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (void)readAlignment:(UInt8)alignment;$/;"	m	interface:FlutterStandardReader
+readByte	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (UInt8)readByte;$/;"	m	interface:FlutterStandardReader
+readBytes:length:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (void)readBytes:(void*)destination length:(NSUInteger)length;$/;"	m	interface:FlutterStandardReader
+readData:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (NSData*)readData:(NSUInteger)length;$/;"	m	interface:FlutterStandardReader
+readSize	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (UInt32)readSize;$/;"	m	interface:FlutterStandardReader
+readUTF8	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (NSString*)readUTF8;$/;"	m	interface:FlutterStandardReader
+readValue	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (nullable id)readValue;$/;"	m	interface:FlutterStandardReader
+readValueOfType:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (nullable id)readValueOfType:(UInt8)type;$/;"	m	interface:FlutterStandardReader
+readerWithData:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (FlutterStandardReader*)readerWithData:(NSData*)data;$/;"	m	interface:FlutterStandardReaderWriter
+registerTexture:	ios/Flutter/Flutter.framework/Headers/FlutterTexture.h	/^- (int64_t)registerTexture:(NSObject<FlutterTexture>*)texture;$/;"	m	protocol:FlutterTextureRegistry
+registerViewFactory:withId:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^                     withId:(NSString*)factoryId;$/;"	m	protocol:FlutterPluginRegistrar
+registerWith	android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java	/^  public static void registerWith(@NonNull FlutterEngine flutterEngine) {$/;"	m	class:GeneratedPluginRegistrant
+registerWithRegistrar:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^+ (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar;$/;"	c	protocol:FlutterPlugin
+registerWithRegistry:	ios/Runner/GeneratedPluginRegistrant.h	/^+ (void)registerWithRegistry:(NSObject<FlutterPluginRegistry>*)registry;$/;"	c	interface:GeneratedPluginRegistrant
+registerWithRegistry:	ios/Runner/GeneratedPluginRegistrant.m	/^+ (void)registerWithRegistry:(NSObject<FlutterPluginRegistry>*)registry {$/;"	c	implementation:GeneratedPluginRegistrant
+registrarForPlugin:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (NSObject<FlutterPluginRegistrar>*)registrarForPlugin:(NSString*)pluginKey;$/;"	m	protocol:FlutterPluginRegistry
+registry	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^typedef void (*FlutterPluginRegistrantCallback)(NSObject<FlutterPluginRegistry>* registry);$/;"	t
+reply	ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h	/^typedef void (^FlutterBinaryMessageHandler)(NSData* _Nullable message, FlutterBinaryReply reply)/;"	t
+reply	ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h	/^typedef void (^FlutterBinaryReply)(NSData* _Nullable reply);$/;"	t
+reply	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^typedef void (^FlutterReply)(id _Nullable reply);$/;"	t
+resizeChannelBuffer:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^- (void)resizeChannelBuffer:(NSInteger)newSize;$/;"	m	interface:FlutterBasicMessageChannel
+resizeChannelBuffer:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^- (void)resizeChannelBuffer:(NSInteger)newSize;$/;"	m	interface:FlutterMethodChannel
+result	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^typedef void (^FlutterMethodCallHandler)(FlutterMethodCall* call, FlutterResult result);$/;"	t
+result	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^typedef void (^FlutterResult)(id _Nullable result);$/;"	t
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "..\/",$/;"	s	object:packages.28
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/a/;"	s	object:packages.0
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/a/;"	s	object:packages.1
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/a/;"	s	object:packages.2
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/b/;"	s	object:packages.3
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/c/;"	s	object:packages.4
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/c/;"	s	object:packages.5
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/c/;"	s	object:packages.6
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/c/;"	s	object:packages.7
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/c/;"	s	object:packages.8
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/i/;"	s	object:packages.11
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/m/;"	s	object:packages.12
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/m/;"	s	object:packages.13
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/p/;"	s	object:packages.14
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/p/;"	s	object:packages.15
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/p/;"	s	object:packages.16
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/q/;"	s	object:packages.17
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/s/;"	s	object:packages.19
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/s/;"	s	object:packages.20
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/s/;"	s	object:packages.21
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/s/;"	s	object:packages.22
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/t/;"	s	object:packages.23
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/t/;"	s	object:packages.24
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/t/;"	s	object:packages.25
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/v/;"	s	object:packages.26
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/.pub-cache\/hosted\/pub.dartlang.org\/x/;"	s	object:packages.27
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/bin\/cache\/pkg\/sky_engine",$/;"	s	object:packages.18
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/packages\/flutter",$/;"	s	object:packages.9
+rootUri	.dart_tool/package_config.json	/^      "rootUri": "file:\/\/\/Users\/stevenjohn\/flutter\/packages\/flutter_test",$/;"	s	object:packages.10
+run	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^- (BOOL)run;$/;"	m	interface:FlutterEngine
+runWithEntrypoint:	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^- (BOOL)runWithEntrypoint:(nullable NSString*)entrypoint;$/;"	m	interface:FlutterEngine
+runWithEntrypoint:libraryURI:	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^- (BOOL)runWithEntrypoint:(nullable NSString*)entrypoint libraryURI:(nullable NSString*)uri;$/;"	m	interface:FlutterEngine
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "1x"$/;"	s	object:images.11
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "1x"$/;"	s	object:images.13
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "1x"$/;"	s	object:images.15
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "1x"$/;"	s	object:images.18
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "1x"$/;"	s	object:images.2
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "1x"$/;"	s	object:images.9
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.0
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.10
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.12
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.14
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.16
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.17
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.3
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.5
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.7
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "3x"$/;"	s	object:images.1
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "3x"$/;"	s	object:images.4
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "3x"$/;"	s	object:images.6
+scale	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "3x"$/;"	s	object:images.8
+scale	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "scale" : "1x"$/;"	s	object:images.0
+scale	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "scale" : "2x"$/;"	s	object:images.1
+scale	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^      "scale" : "3x"$/;"	s	object:images.2
+sendMessage:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^- (void)sendMessage:(id _Nullable)message;$/;"	m	interface:FlutterBasicMessageChannel
+sendMessage:reply:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^- (void)sendMessage:(id _Nullable)message reply:(FlutterReply _Nullable)callback;$/;"	m	interface:FlutterBasicMessageChannel
+sendOnChannel:message:	ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h	/^- (void)sendOnChannel:(NSString*)channel message:(NSData* _Nullable)message;$/;"	m	protocol:FlutterBinaryMessenger
+sendOnChannel:message:binaryReply:	ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h	/^          binaryReply:(FlutterBinaryReply _Nullable)callback;$/;"	m	protocol:FlutterBinaryMessenger
+setFlutterViewDidRenderCallback:	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^- (void)setFlutterViewDidRenderCallback:(void (^)(void))callback;$/;"	m	interface:FlutterViewController
+setInitialRoute:	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^- (void)setInitialRoute:(NSString*)route;$/;"	m	interface:FlutterViewController
+setMessageHandler:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^- (void)setMessageHandler:(FlutterMessageHandler _Nullable)handler;$/;"	m	interface:FlutterBasicMessageChannel
+setMessageHandlerOnChannel:binaryMessageHandler:	ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h	/^              binaryMessageHandler:(FlutterBinaryMessageHandler _Nullable)handler;$/;"	m	protocol:FlutterBinaryMessenger
+setMethodCallHandler:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^- (void)setMethodCallHandler:(FlutterMethodCallHandler _Nullable)handler;$/;"	m	interface:FlutterMethodChannel
+setPluginRegistrantCallback:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^+ (void)setPluginRegistrantCallback:(FlutterPluginRegistrantCallback)callback;$/;"	c	protocol:FlutterPlugin
+setStreamHandler:	ios/Flutter/Flutter.framework/Headers/FlutterChannels.h	/^- (void)setStreamHandler:(NSObject<FlutterStreamHandler>* _Nullable)handler;$/;"	m	interface:FlutterEventChannel
+settingsChannel	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^@property(nonatomic, readonly) FlutterBasicMessageChannel* settingsChannel;$/;"	p	interface:FlutterEngine
+sharedInstance	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^+ (instancetype)sharedInstance;$/;"	c	protocol:FlutterMessageCodec
+sharedInstance	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^+ (instancetype)sharedInstance;$/;"	c	protocol:FlutterMethodCodec
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "1024x1024",$/;"	s	object:images.18
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "20x20",$/;"	s	object:images.0
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "20x20",$/;"	s	object:images.1
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "20x20",$/;"	s	object:images.10
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "20x20",$/;"	s	object:images.9
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "29x29",$/;"	s	object:images.11
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "29x29",$/;"	s	object:images.12
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "29x29",$/;"	s	object:images.2
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "29x29",$/;"	s	object:images.3
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "29x29",$/;"	s	object:images.4
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "40x40",$/;"	s	object:images.13
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "40x40",$/;"	s	object:images.14
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "40x40",$/;"	s	object:images.5
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "40x40",$/;"	s	object:images.6
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "60x60",$/;"	s	object:images.7
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "60x60",$/;"	s	object:images.8
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "76x76",$/;"	s	object:images.15
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "76x76",$/;"	s	object:images.16
+size	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "83.5x83.5",$/;"	s	object:images.17
+splashScreenView	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^@property(strong, nonatomic) UIView* splashScreenView;$/;"	p	interface:FlutterViewController
+splitJvmOpts	android/gradlew	/^function splitJvmOpts() {$/;"	f
+success	ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h	/^typedef void (^FlutterHeadlessDartRunnerCallback)(BOOL success);$/;"	t
+systemChannel	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^@property(nonatomic, readonly) FlutterBasicMessageChannel* systemChannel;$/;"	p	interface:FlutterEngine
+textInputChannel	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^@property(nonatomic, readonly) FlutterMethodChannel* textInputChannel;$/;"	p	interface:FlutterEngine
+textureFrameAvailable:	ios/Flutter/Flutter.framework/Headers/FlutterTexture.h	/^- (void)textureFrameAvailable:(int64_t)textureId;$/;"	m	protocol:FlutterTextureRegistry
+textures	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (NSObject<FlutterTextureRegistry>*)textures;$/;"	m	protocol:FlutterPluginRegistrar
+type	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^@property(readonly, nonatomic) FlutterStandardDataType type;$/;"	p	interface:FlutterStandardTypedData
+typedDataWithBytes:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^+ (instancetype)typedDataWithBytes:(NSData*)data;$/;"	c	interface:FlutterStandardTypedData
+typedDataWithFloat64:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^+ (instancetype)typedDataWithFloat64:(NSData*)data;$/;"	c	interface:FlutterStandardTypedData
+typedDataWithInt32:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^+ (instancetype)typedDataWithInt32:(NSData*)data;$/;"	c	interface:FlutterStandardTypedData
+typedDataWithInt64:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^+ (instancetype)typedDataWithInt64:(NSData*)data;$/;"	c	interface:FlutterStandardTypedData
+unregisterTexture:	ios/Flutter/Flutter.framework/Headers/FlutterTexture.h	/^- (void)unregisterTexture:(int64_t)textureId;$/;"	m	protocol:FlutterTextureRegistry
+valuePublishedByPlugin:	ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h	/^- (NSObject*)valuePublishedByPlugin:(NSString*)pluginKey;$/;"	m	protocol:FlutterPluginRegistry
+version	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    "version" : 1,$/;"	n	object:info
+version	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^    "version" : 1,$/;"	n	object:info
+view	ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h	/^- (UIView*)view;$/;"	m	protocol:FlutterPlatformView
+viewController	ios/Flutter/Flutter.framework/Headers/FlutterEngine.h	/^@property(nonatomic, weak) FlutterViewController* viewController;$/;"	p	interface:FlutterEngine
+viewOpaque	ios/Flutter/Flutter.framework/Headers/FlutterViewController.h	/^@property(nonatomic, getter=isViewOpaque) BOOL viewOpaque;$/;"	p	interface:FlutterViewController
+warn	android/gradlew	/^warn ( ) {$/;"	f
+win9xME_args	android/gradlew.bat	/^:win9xME_args$/;"	l
+win9xME_args_slurp	android/gradlew.bat	/^:win9xME_args_slurp$/;"	l
+window	ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h	/^@property(strong, nonatomic) UIWindow* window;$/;"	p	interface:FlutterAppDelegate
+writeAlignment:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (void)writeAlignment:(UInt8)alignment;$/;"	m	interface:FlutterStandardWriter
+writeByte:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (void)writeByte:(UInt8)value;$/;"	m	interface:FlutterStandardWriter
+writeBytes:length:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (void)writeBytes:(const void*)bytes length:(NSUInteger)length;$/;"	m	interface:FlutterStandardWriter
+writeData:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (void)writeData:(NSData*)data;$/;"	m	interface:FlutterStandardWriter
+writeSize:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (void)writeSize:(UInt32)size;$/;"	m	interface:FlutterStandardWriter
+writeUTF8:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (void)writeUTF8:(NSString*)value;$/;"	m	interface:FlutterStandardWriter
+writeValue:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (void)writeValue:(id)value;$/;"	m	interface:FlutterStandardWriter
+writerWithData:	ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h	/^- (FlutterStandardWriter*)writerWithData:(NSMutableData*)data;$/;"	m	interface:FlutterStandardReaderWriter
+zipStoreBase	android/gradle/wrapper/gradle-wrapper.properties	/^zipStoreBase=GRADLE_USER_HOME$/;"	k
+zipStorePath	android/gradle/wrapper/gradle-wrapper.properties	/^zipStorePath=wrapper\/dists$/;"	k
