@@ -18,6 +18,19 @@ class _InfoScreenState extends State<InfoScreen> {
       appBar: AppBar(
         elevation: 0,
         backgroundColor: Colors.white.withOpacity(0),
+        actions: <Widget>[
+          IconButton(
+            onPressed: () {},
+            icon: Icon(Icons.search),
+            iconSize: 30.0,
+          ),
+          IconButton(
+            onPressed: () {},
+            icon: Icon(Icons.filter_list),
+            iconSize: 30.0,
+          ),
+          SizedBox(width: 10.0),
+        ],
       ),
       extendBodyBehindAppBar: true,
       body: Column(
@@ -95,7 +108,15 @@ class _InfoScreenState extends State<InfoScreen> {
               )
             ],
           ),
-          ActivityWidget(activities[0]),
+          Expanded(
+            child: ListView.builder(
+              padding: EdgeInsets.only(top: 10.0),
+              itemCount: activities.length,
+              itemBuilder: (BuildContext context, int index) {
+                return ActivityWidget(activities[index]);
+              },
+            ),
+          )
         ],
       ),
     );
